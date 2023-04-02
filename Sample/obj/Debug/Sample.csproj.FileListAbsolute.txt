@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Reflection\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Reflection\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reflection\Sample\bin\Debug\Sample.dll.config
+C:\Users\Admin\source\repos\Reflection\Sample\bin\Debug\Sample.dll
+C:\Users\Admin\source\repos\Reflection\Sample\bin\Debug\Sample.pdb
+C:\Users\Admin\source\repos\Reflection\Sample\obj\Debug\Sample.dll
+C:\Users\Admin\source\repos\Reflection\Sample\obj\Debug\Sample.pdb

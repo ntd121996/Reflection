@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Reflection\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Admin\source\repos\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\Admin\source\repos\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Admin\source\repos\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\Admin\source\repos\Reflection\Reflection\obj\Debug\Reflection.pdb
+C:\Users\Admin\source\repos\Reflection\Reflection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Reflection\Reflection\bin\Debug\Newtonsoft.Json.xml
